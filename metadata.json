@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Product Studio",
+  "description": "AI-powered product photo enhancement and background generation tool using Gemini 2.5 Flash Image model.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
